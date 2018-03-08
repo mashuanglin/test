@@ -1,12 +1,2 @@
 # test
-this is my second reposity(origin from origin)
-this is my second reposity(origin from origin)
-this is my second reposity(origin from origin)
-this is my second reposity(origin from origin)
-this is my second reposity(origin from origin)
-this is my second reposity(origin from origin)
-this is my second reposity(origin from origin)hehe
-this is my second reposity(origin from origin)hehe
-this is my second reposity(origin from origin)hehe
-this is my second reposity(origin from origin)hehejkj
-MASHUANGLIN
+this is my second reposity(origin from origin)hello
